@@ -1,4 +1,4 @@
-region,partner,product_category,product_group,year,month,count,lead_weigh,net_revenue_usd
+지역,총판,제품카테고리,제품그룹,년,월,수량,연중량,매출액
 북미,G,AGM,BCI 65,2021,1,480,"6,710","33,580"
 북미,G,AGM,BCI 65,2021,2,720,"10,070","51,310"
 북미,G,AGM,BCI 65,2021,3,900,"12,580","64,110"
